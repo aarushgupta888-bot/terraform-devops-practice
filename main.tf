@@ -13,5 +13,5 @@ provider "azurerm" {
 
 resource "azurerm_resource_group" "demo" {
   name     = "rg-devops-practice"
-  location = "West Europe"
+  location = "North Europe"
 }
